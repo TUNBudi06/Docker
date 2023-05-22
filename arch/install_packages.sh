@@ -49,7 +49,7 @@ python --version; pip --version
 # Install Some pip packages
 pip install \
 	twrpdtgen telegram-send backports.lzma docopt \
-	extract-dtb protobuf pycrypto docopt zstandard \
+	extract-dtb protobuf pycryptodome docopt zstandard \
 	setuptools future requests humanize clint lz4 \
 	pycryptodome
 
